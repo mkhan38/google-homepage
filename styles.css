@@ -24,8 +24,7 @@ button {
     color: #484848;
     padding: 0.5em 1em;
     position: relative;
-    left: 39%;
-    margin-right: ;
+    left: 43%;
 
 }
 
@@ -40,7 +39,20 @@ button:hover {
 .right  {
     display: inline;
     position: relative;
-    left: 73%;
+    left: 83%;
+}
+
+.left-footer {
+    display: inline;
+    position:absolute;
+    bottom:1em;
+}
+
+.right-footer {
+    display: inline;
+    position: absolute;
+    bottom: 1em;
+    right: 0.5em;
 }
 
 
