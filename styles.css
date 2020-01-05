@@ -1,0 +1,17 @@
+img {
+    display: block;
+    margin: 0 auto;
+    float: none;
+    padding-top: 12em;
+    padding-bottom: 2em;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    width: 44em;
+    height: 2.9em;
+    border-radius: 3em;
+    border-style: solid;
+    border-color: #d6d6d6;
+}
